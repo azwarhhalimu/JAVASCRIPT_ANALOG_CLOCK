@@ -38,11 +38,12 @@ img {
   height: 60px;
   width: 5px;
   top: 100px;
+  opacity: 0.9;
 }
 .minute {
-  height: 50px;
+  height: 80px;
   width: 5px;
-  top: 110px;
+  top: 80px;
   background: blue;
 }
 .second {
